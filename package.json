@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/criscond/standard-version#readme",
   "devDependencies": {
-    "standard-version": "^8.0.0"
+    "standard-version": "^8.0.1"
   }
 }
